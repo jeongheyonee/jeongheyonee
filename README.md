@@ -1,2 +1,2 @@
-## Hi there 👋, jeonghyeonee
+## 🐿 Jeonghyeon Lee
 - ITM in Seoultech(2020 ~ ing)
