@@ -9,4 +9,4 @@
 - STEM(SeoulTech Encouraging Mentor) 10th (2021.05. ~ ing)
 
 ### Work Experiences
-- Software Engineer Intership(2022.09. ~ ing)
+- Undergrade Intern Technical(2022.09. ~ ing)
