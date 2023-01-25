@@ -12,6 +12,4 @@
 - STEM(SeoulTech Encouraging Mentor) 10th (2021.05. ~ ing)
 
 ### Achievements
-- Bronze
-
 
