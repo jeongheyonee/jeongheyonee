@@ -1,3 +1,3 @@
 # Jeonghyeon Lee
 
-(I'll update soon...^^)
+(Comming soon)
