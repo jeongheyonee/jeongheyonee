@@ -1,4 +1,2 @@
 # Jeonghyeon Lee
 
-I did
-
