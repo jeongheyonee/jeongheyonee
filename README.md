@@ -6,7 +6,7 @@
 ### Experience
 - 🎓 Seoul National University of Science and Technology, ITM (2020.03. ~ )
 - 🎓 Northumbria University, ITMB (2020.03. ~ )
-- 💻 Undergrad Technical Intern, Intel Korea (2022.09. ~ )
+- 🖥 Undergrad Technical Intern, Intel Korea (2022.09. ~ )
 
 ### Extracurricular Activities
 - ☁ ASC(AWS Student Club) SeoulTech Co-Captain (2023.07. ~ )
@@ -22,3 +22,6 @@
 - 🥉 Bronze Award, ITM IT Service Competition(Planning section) - CafeIn (2021)
 - 🏅 Encouragement Award, ITM IT Service Competition(Planning section) - Writing Guide (2020)
 - 🏅 Encouragement Award, ITM IT Service Competition(Develop section) - VEG (2020)
+
+### Stacks
+
