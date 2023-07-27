@@ -1,7 +1,7 @@
 # Jeonghyeon Lee
 ### How to contact me
 <a href="https://www.linkedin.com/in/jeonghyeon-lee-9b6380223" target="_blank"><img src="https://img.shields.io/badge/JeonghyeonLee-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jeonghyeon-lee-9b6380223"/></a>
-<a href="mailto:workhappyj@gmail.com" target="_blank"><img src="https://img.shields.io/badge/JeonghyeonLee-#EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:workhappyj@gmail.com"/></a>
+<a href="mailto:workhappyj@gmail.com" target="_blank"><img src="https://img.shields.io/badge/JeonghyeonLee-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:workhappyj@gmail.com"/></a>
 
 ### Experience
 - 🎓 Seoul National University of Science and Technology, ITM (2020.03. ~ )
