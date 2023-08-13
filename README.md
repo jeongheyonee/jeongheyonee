@@ -25,5 +25,4 @@
 - 🏅 Encouragement Award, ITM IT Service Competition(Planning section) - Writing Guide (2020)
 - 🏅 Encouragement Award, ITM IT Service Competition(Develop section) - VEG (2020)
 
-### Stacks
 
