@@ -15,7 +15,7 @@
 - 🐘 BOAZ(Bigdata is Our A to Z) Union Club 17th President (2021.07. ~ 2022.08.)
 - 👩‍🏫 STEM(Seoul Tech Encouraging Mentor) Student Ambassador Vice President (2021.05. ~ )
 - 🐨 COALA(Coding Club) SeoulTech President (2020.07. ~ )
-- 📚 Sophist(Book Club) SeoulTech President (2020.07. ~ )
+- 📚 Sophist(Reading Club) SeoulTech President (2020.07. ~ )
 - 👩‍💻 23rd Summer College Student Tallent Volunteer Mentoring (2021.07. ~ 2021.08.)
 
 ### Achievements
