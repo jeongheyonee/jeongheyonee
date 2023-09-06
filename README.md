@@ -8,7 +8,7 @@
 - 🎓 Northumbria University, ITMB (2020.03. ~ )
 
 ### Experience
-- 🖥 Undergrad Technical Intern, Intel Korea (2022.09. ~ 2023.09.)
+- 🖥 Undergrad Technical Intern, Intel Korea (2022.09. ~ )
 
 ### Extracurricular Activities
 - ☁ ACC(AWS Cloud Club) SeoulTech Co-Captain (2023.07. ~ )
