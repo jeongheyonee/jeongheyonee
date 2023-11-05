@@ -11,7 +11,8 @@
 - 🖥 Undergrad Technical Intern, Intel Korea (2022.09. ~ 2023.09.)
 
 ### Extracurricular Activities
-- ☁ ACC(AWS Cloud Club) SeoulTech Co-Captain (2023.07. ~ )
+- 🧠 GDSC(Google Developer Student Clubs) Seoul National University of Science and Technology 3rd Core (2023.08. ~ )
+- ☁ ACC(AWS Cloud Club) SeoulTech 1st Co-Captain (2023.07. ~ )
 - 🐘 BOAZ(Bigdata is Our A to Z) Union Club 17th President (2021.07. ~ 2022.08.)
 - 👩‍🏫 STEM(Seoul Tech Encouraging Mentor) Student Ambassador Vice President (2021.05. ~ )
 - 🐨 COALA(Coding Club) SeoulTech President (2020.07. ~ )
