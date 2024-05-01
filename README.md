@@ -5,9 +5,10 @@
 
 ### Education
 - 🎓 Seoul National University of Science and Technology, ITM (2020.03. ~ )
-- 🎓 Northumbria University, ITMB (2020.03. ~ )
+- 🎓 Northumbria University, ITM (2020.03. ~ )
 
 ### Experience
+- 🖥️ Technical Support Intern, SAS Korea (2024.04. ~ )
 - 🖥 Undergrad Technical Intern, Intel Korea (2022.09. ~ 2023.09.)
 
 ### Extracurricular Activities
